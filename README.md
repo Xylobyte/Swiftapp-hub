@@ -5,4 +5,4 @@ I have knowledge in Android development, Web development and C++ programming wit
 
 THANKS
 
-<a href="https://app.daily.dev/Swiftapp"><img src="https://api.daily.dev/devcards/v2/0jzaEizgtr00NAtaXbMUJ.png?type=default&r=3kg" width="200" alt="Nantsa's Dev Card"/></a>
+<a href="https://app.daily.dev/xylobyte"><img src="https://api.daily.dev/devcards/v2/0jzaEizgtr00NAtaXbMUJ.png?type=wide&r=pid" width="200" alt="Nantsa Montillet's Dev Card"/></a>
